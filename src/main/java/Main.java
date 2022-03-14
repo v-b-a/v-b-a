@@ -10,5 +10,7 @@ public class Main {
         System.out.println(user1.getAge());
         System.out.println(user1.getAge());
 
+        User user2 = new User("Georg", 85);
+
     }
 }
