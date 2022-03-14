@@ -6,6 +6,7 @@ public class Main {
         User user1 = new User("Ivan2", 88);
         System.out.println(user1.getAge());
         System.out.println(user1.getName());
+        System.out.println(user1.getName());
 
     }
 }
