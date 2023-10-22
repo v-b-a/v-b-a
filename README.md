@@ -5,7 +5,7 @@ You can contact me by email: <a href="mailto:valiakhmedov.ba@gmail.com">valiakhm
   
 I have 3 years of experience as a systems analyst in IT teams. In this position, i designed the architecture and integration of IT systems, wrote requirements for the development.
 
-Now I am taking a Java developer course at @hexlet.
+Now I am workinking Java/Kotlinin fintech.
 
 ## My tech stack
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
