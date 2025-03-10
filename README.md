@@ -3,9 +3,9 @@
 I'm Java developer, currently working at AlfaDigital.  
 You can contact me by email: <a href="mailto:valiakhmedov.ba@gmail.com">valiakhmedov.ba@gmail.com</a> or telegram: <a href="https://t.me/bari_av">@bari_av</a>  
   
-I have 3 years of experience as a systems analyst in IT teams. In this position, i designed the architecture and integration of IT systems, wrote requirements for the development.
+I have 3 years of experience as a systems analyst in IT teams. In this position, I designed the architecture and integration of IT systems, wrote requirements for the development.
 
-Now I am workinking Java/Kotlinin fintech.
+Now I am workinking Java/Kotlin developer
 
 ## My tech stack
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
